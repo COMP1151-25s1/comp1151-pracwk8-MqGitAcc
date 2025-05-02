@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 9672218}
   - component: {fileID: 9672217}
   - component: {fileID: 9672216}
-  m_Layer: 3
+  m_Layer: 10
   m_Name: powerupGreen_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -329,7 +329,7 @@ GameObject:
   - component: {fileID: 10107987}
   - component: {fileID: 10107988}
   - component: {fileID: 10107989}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: Playa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -576,7 +576,7 @@ GameObject:
   - component: {fileID: 182282455}
   - component: {fileID: 182282460}
   - component: {fileID: 182282459}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: meteorBrown_big4_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -760,7 +760,7 @@ GameObject:
   - component: {fileID: 479331857}
   - component: {fileID: 479331860}
   - component: {fileID: 479331859}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -924,7 +924,7 @@ GameObject:
   - component: {fileID: 687298652}
   - component: {fileID: 687298657}
   - component: {fileID: 687298656}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: meteorBrown_big4_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1107,7 +1107,7 @@ GameObject:
   - component: {fileID: 765608245}
   - component: {fileID: 765608244}
   - component: {fileID: 765608243}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -1202,7 +1202,7 @@ GameObject:
   - component: {fileID: 882831894}
   - component: {fileID: 882831899}
   - component: {fileID: 882831898}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: meteorBrown_med3_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1388,7 +1388,7 @@ GameObject:
   - component: {fileID: 1117485988}
   - component: {fileID: 1117485992}
   - component: {fileID: 1117485993}
-  m_Layer: 8
+  m_Layer: 7
   m_Name: enemyBlack4_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1641,7 +1641,7 @@ GameObject:
   - component: {fileID: 1563446032}
   - component: {fileID: 1563446035}
   - component: {fileID: 1563446034}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1805,7 +1805,7 @@ GameObject:
   - component: {fileID: 1941829895}
   - component: {fileID: 1941829894}
   - component: {fileID: 1941829893}
-  m_Layer: 3
+  m_Layer: 10
   m_Name: powerupGreen_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
